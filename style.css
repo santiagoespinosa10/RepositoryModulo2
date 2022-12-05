@@ -1,12 +1,15 @@
 .menu{
-    text-decoration:underline; color:blueviolet;
+    text-decoration:underline; color:blueviolet; list-style-type: disc;
 }
 .titulo{
-    color: blueviolet; text-decoration: underline;
+    color: white; background-color: rgb(77, 75, 75); 
 } 
 .nosotros {
     
 }
 .contacto {
     text: size adjust 15px; 
+}
+span {
+    font-weight: bold
 }
