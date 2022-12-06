@@ -13,3 +13,8 @@
 span {
     font-weight: bold
 }
+img.redimension {
+width: 100px;
+height: 100px;
+}
+    
