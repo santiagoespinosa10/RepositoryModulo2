@@ -1,20 +1,25 @@
-.menu{
-    text-decoration:underline; color:blueviolet; list-style-type: disc;
+.menu {
+    text-decoration: underline;
+    color: blueviolet;
+    list-style-type: disc;
 }
-.titulo{
-    color: white; background-color: rgb(77, 75, 75); 
-} 
-.nosotros {
-    
+
+.titulo {
+    color: white;
+    background-color: rgb(77, 75, 75);
 }
+
+.nosotros {}
+
 .contacto {
-    text: size adjust 15px; 
+    text: size adjust 15px;
 }
+
 span {
     font-weight: bold
 }
+
 img.redimension {
-width: 100px;
-height: 100px;
+    width: 100px;
+    height: 100px;
 }
-    
